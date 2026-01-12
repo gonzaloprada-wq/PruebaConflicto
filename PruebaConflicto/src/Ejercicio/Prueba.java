@@ -3,8 +3,17 @@ package Ejercicio;
 public class Prueba {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		int p = 1;
+		
+		int h = 8;
+		
+		final double K = 7.8;
+		
+		System.out.println("Hola mi nombre es Gonzalo Prada");
+		
+		System.out.println(p+h-K);
+		
 	}
 
 }
